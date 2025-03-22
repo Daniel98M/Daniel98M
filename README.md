@@ -15,7 +15,7 @@ I’m an Software Engineering student at Universidad de La Sabana, currently wor
 ## 🚀 What I'm Working On  
 - Improving my **Machine Learning** skills  
 - Building **data-driven projects**  
-- Developing **games in Unity**  
+- Studying **Full Stack Development**
 - Practicing **LeetCode challenges**
 
 ## 📚 Learning:
