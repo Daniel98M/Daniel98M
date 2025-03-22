@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Martínez!
 
-<!--
-**Daniel98M/Daniel98M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 🚀 **Aspiring Software & Machine Learning Developer** | 🎮 Passionate about Data, AI & Game Development  
 
-Here are some ideas to get you started:
+## 📌 About Me  
+I’m an Software Engineering student at Universidad de La Sabana, currently working in Advanced Analytics at WOM. I’m actively learning Machine Learning and Full Stack Development to expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills  
+- 💻 **Programming:** Python, JavaScript, SQL, C++  
+- 📊 **Data & Analytics:** Pandas, NumPy, SQL  
+- 🤖 **Machine Learning:** Scikit-learn 
+- 🎮 **Game Dev:** Unity, C#  
+- 🌐 **Web Dev:** React, Node.js  
+
+## 🚀 What I'm Working On  
+- Improving my **Machine Learning** skills  
+- Building **data-driven projects**  
+- Developing **games in Unity**  
+- Practicing **LeetCode challenges**
+
+## 📚 Learning:
+- Machine Learning  
+- Web Development  
+- Game Development  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/carlosmaza98)  
+
+Feel free to check out my repositories and projects. Always open to collaboration and learning new things! 😃
